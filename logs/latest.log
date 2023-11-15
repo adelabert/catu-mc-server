@@ -1,0 +1,15 @@
+[00:19:56] [Server thread/INFO]: DayReef lost connection: Disconnected
+[00:19:57] [Server thread/INFO]: DayReef left the game
+[00:20:10] [Server thread/INFO]: NOTWOWHOOMAN lost connection: Disconnected
+[00:20:10] [Server thread/INFO]: NOTWOWHOOMAN left the game
+[00:20:43] [Server thread/INFO]: Stopping the server
+[00:20:43] [Server thread/INFO]: Stopping server
+[00:20:43] [Server thread/INFO]: Saving players
+[00:20:43] [Server thread/INFO]: Saving worlds
+[00:20:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[CatuWorld]'/minecraft:overworld
+[00:20:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[CatuWorld]'/minecraft:the_nether
+[00:20:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[CatuWorld]'/minecraft:the_end
+[00:20:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (CatuWorld): All chunks are saved
+[00:20:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:20:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:20:43] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
