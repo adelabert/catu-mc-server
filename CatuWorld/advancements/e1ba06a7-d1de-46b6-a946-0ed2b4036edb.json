@@ -3663,15 +3663,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/terracotta": {
+  "minecraft:husbandry/safely_harvest_honey": {
     "criteria": {
-      "has_clay_block": "2023-11-14 22:13:03 +0700"
-    },
-    "done": true
-  },
-  "minecraft:story/enchant_item": {
-    "criteria": {
-      "enchanted_item": "2023-11-14 23:51:17 +0700"
+      "safely_harvest_honey": "2023-11-14 18:25:21 +0700"
     },
     "done": true
   },
@@ -3687,9 +3681,33 @@
     },
     "done": true
   },
-  "minecraft:husbandry/safely_harvest_honey": {
+  "minecraft:recipes/building_blocks/terracotta": {
     "criteria": {
-      "safely_harvest_honey": "2023-11-14 18:25:21 +0700"
+      "has_clay_block": "2023-11-14 22:13:03 +0700"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2023-11-14 23:51:17 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2023-11-20 14:18:40 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2023-11-20 14:18:40 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2023-11-20 14:18:40 +0700"
     },
     "done": true
   },

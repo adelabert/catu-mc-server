@@ -1,15 +1,37 @@
-[00:19:56] [Server thread/INFO]: DayReef lost connection: Disconnected
-[00:19:57] [Server thread/INFO]: DayReef left the game
-[00:20:10] [Server thread/INFO]: NOTWOWHOOMAN lost connection: Disconnected
-[00:20:10] [Server thread/INFO]: NOTWOWHOOMAN left the game
-[00:20:43] [Server thread/INFO]: Stopping the server
-[00:20:43] [Server thread/INFO]: Stopping server
-[00:20:43] [Server thread/INFO]: Saving players
-[00:20:43] [Server thread/INFO]: Saving worlds
-[00:20:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[CatuWorld]'/minecraft:overworld
-[00:20:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[CatuWorld]'/minecraft:the_nether
-[00:20:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[CatuWorld]'/minecraft:the_end
-[00:20:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (CatuWorld): All chunks are saved
-[00:20:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:20:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:20:43] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[14:10:52] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[14:10:53] [ServerMain/INFO]: Loaded 7 recipes
+[14:10:53] [ServerMain/INFO]: Loaded 1271 advancements
+[14:10:54] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[14:10:54] [Server thread/INFO]: Loading properties
+[14:10:54] [Server thread/INFO]: Default game type: SURVIVAL
+[14:10:54] [Server thread/INFO]: Generating keypair
+[14:10:54] [Server thread/INFO]: Starting Minecraft server on 192.168.1.33:25565
+[14:10:54] [Server thread/INFO]: Using default channel type
+[14:10:54] [Server thread/INFO]: Preparing level "CatuWorld"
+[14:10:55] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:10:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:10:57] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[14:10:57] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[14:10:57] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[14:10:57] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[14:10:57] [Worker-Main-15/INFO]: Preparing spawn area: 0%
+[14:10:58] [Worker-Main-12/INFO]: Preparing spawn area: 27%
+[14:10:58] [Server thread/INFO]: Time elapsed: 3396 ms
+[14:10:58] [Server thread/INFO]: Done (4.142s)! For help, type "help"
+[14:12:59] [User Authenticator #1/INFO]: UUID of player NOTWOWHOOMAN is e1ba06a7-d1de-46b6-a946-0ed2b4036edb
+[14:12:59] [Server thread/INFO]: NOTWOWHOOMAN[/192.168.1.33:63129] logged in with entity id 110 at (-2059.813166865931, 131.5, 67.04156481637945)
+[14:12:59] [Server thread/INFO]: NOTWOWHOOMAN joined the game
+[14:36:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9071ms or 181 ticks behind
+[14:56:35] [Server thread/INFO]: NOTWOWHOOMAN lost connection: Disconnected
+[14:56:35] [Server thread/INFO]: NOTWOWHOOMAN left the game
+[14:56:49] [Server thread/INFO]: Stopping the server
+[14:56:49] [Server thread/INFO]: Stopping server
+[14:56:49] [Server thread/INFO]: Saving players
+[14:56:49] [Server thread/INFO]: Saving worlds
+[14:56:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[CatuWorld]'/minecraft:overworld
+[14:56:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[CatuWorld]'/minecraft:the_nether
+[14:56:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[CatuWorld]'/minecraft:the_end
+[14:56:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (CatuWorld): All chunks are saved
+[14:56:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:56:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:56:51] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
